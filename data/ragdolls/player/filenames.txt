@@ -1,0 +1,8 @@
+mods/pony-player/ragdolls/player/torso.png
+mods/pony-player/ragdolls/player/right_thigh.png
+mods/pony-player/ragdolls/player/right_arm.png
+mods/pony-player/ragdolls/player/right_hand.png
+mods/pony-player/ragdolls/player/left_thigh.png
+mods/pony-player/ragdolls/player/left_arm.png
+mods/pony-player/ragdolls/player/left_hand.png
+mods/pony-player/ragdolls/player/head.png
