@@ -219,10 +219,10 @@
   </RectAnimation>
 
   <RectAnimation 
-    frame_count="4" 
+    frame_count="5" 
     frame_height="20" 
     frame_wait="0.08" 
-    frame_width="13" 
+    frame_width="21" 
     frames_per_row="8" 
     name="swim_idle" 
     pos_x="0" 
@@ -232,10 +232,10 @@
   </RectAnimation>
 
   <RectAnimation 
-    frame_count="5" 
+    frame_count="4" 
     frame_height="20" 
     frame_wait="0.11" 
-    frame_width="13" 
+    frame_width="21" 
     frames_per_row="8" 
     name="swim_move" 
     pos_x="0" 

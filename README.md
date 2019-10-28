@@ -11,6 +11,7 @@ For now this mod lives here: https://github.com/DanielOaks/noita-pony-player
 - Fix ragdoll, though it's kinda cool to just see her disappear. Either away, make sure this isn't too graphic ehe.
 - Maybe add a magical aura when flying, to compliment the particles. They're just an approximation of the 'magical glow' effect from the show. Maybe the 'goo/water/etc auras' in Noita look similar and can provide hints on how to do this more properly.
 - Review animation on sprites, tweak as needed and maybe add secondary animation for mane/tail.
+- Review texturing? We could probably add some more colours to make it fit into the world better, check the default player and how they handle shading/texturing in the default sprite sheets.
 - Any other pon stuff we can easily add?
 
 ## License
